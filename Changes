@@ -1,0 +1,13 @@
+2009-11-22  Dave Cross <dave@dave.org.uk>
+
+  * lib/WWW/Shorten/NotLong.pm: Bump to version 2.00
+
+  * t/notlong.t: Change to use a working URL in the test.
+
+2009-11-21  Dave Cross <dave@angel.mag-sol.com>
+
+  * Build.PL, MANIFEST, README, lib/WWW/Shorten/NotLong.pm, t/00load_a.t,
+  t/00load_b.t, t/00noexp.t, t/98pod-coverage.t, t/99pod.t, t/notlong.t:
+  Initial version.
+
+  * : First Commit
